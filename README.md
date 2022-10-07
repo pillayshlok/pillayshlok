@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @pillayshlok
+- 👀 I’m interested in coding, reading, music
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on data science projects
+- 📫 How to reach me: pillay.shlok@gmail.com
